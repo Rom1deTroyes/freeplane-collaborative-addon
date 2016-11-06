@@ -244,9 +244,9 @@
 </html>
 </richcontent>
 <attribute_layout NAME_WIDTH="128" VALUE_WIDTH="213"/>
-<attribute NAME="addons.collab.cvs.bin" VALUE="C:/Program Files (x86)/CVSNT/cvs.exe"/>
-<attribute NAME="addons.collab.git.bin" VALUE="C:/Program Files (x86)/git/bin/git.exe"/>
-<attribute NAME="addons.collab.svn.bin" VALUE="C:/Program Files/TortoiseSVN/bin/svn.exe"/>
+<attribute NAME="addons.collab.cvs.bin" VALUE="/usr/bin/cvs"/>
+<attribute NAME="addons.collab.git.bin" VALUE="/usr/bin/git"/>
+<attribute NAME="addons.collab.svn.bin" VALUE="/usr/bin/svn"/>
 <attribute NAME="addons.collab.verbose" VALUE="false"/>
 <attribute NAME="addons.collab.quiet" VALUE="false"/>
 </node>
